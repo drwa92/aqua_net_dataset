@@ -6,3 +6,5 @@ https://universe.roboflow.com/aqua-lzsrt/aqua_net
 
 **Detection dataset link:**
 https://universe.roboflow.com/aqua-lzsrt/aqua_net-2
+
+**The code will be released soon.**
